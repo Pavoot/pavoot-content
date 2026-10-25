@@ -1,0 +1,9 @@
+# Drafts and run logs stay local
+drafts/
+learning/
+agent/logs/
+# Never commit LinkedIn data: exports and analytics go to pavoot-ops (DM the bot), not here
+*.zip
+*.xlsx
+*.csv
+.DS_Store

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.pavoot.content-daily</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>/Users/ana/Documents/CODEBASE/pavoot-content/agent/run.sh</string>
+  </array>
+  <!-- Every day at 08:00 local time; if the Mac was asleep, launchd runs it once on wake. -->
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>8</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+  <key>StandardOutPath</key>
+  <string>/Users/ana/Documents/CODEBASE/pavoot-content/agent/logs/launchd.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/ana/Documents/CODEBASE/pavoot-content/agent/logs/launchd.log</string>
+</dict>
+</plist>
