@@ -51,6 +51,13 @@ Be honest about sample size: under 4 posts per group = "early signal", not a rul
   request, whether a meeting happened). These are for Ana to follow up with, and for the GTM agent.
 - **Next data to collect**: e.g. "upload the single-post analytics for posts X and Y (no viewer data yet)".
 
+## 4b. Publish the playbook to Notion
+Write the same playbook to the Notion page **"Content playbook"** under "Pavoot homebase"
+(page id bc9c273c-c2a5-8311-a5f3-01d297b9f05b): search for it first; if it exists, replace its content
+(notion-update-page); if not, create it there. The Slack bot (@pavootops) reads this page when the founders ask
+content questions in #content or #chat, so keep it self-contained. Never put [INTERNAL] facts in it (prices,
+revenue, client counts), and no full names of private individuals beyond those in "Warm people".
+
 ## 5. Slack summary → `{SLACK_FILE}`
 Plain Slack mrkdwn, under 2,500 characters: `Content learnings, week of {TODAY}` · the 3 most useful findings ·
 the running test and its status · warm people to follow up (top 5) · one ask (e.g. "upload this week's

@@ -37,7 +37,7 @@ ALLOWED=(
   "mcp__pavoot__get_event_analytics" "mcp__pavoot__get_attendance_report" "mcp__pavoot__list_reportable_events"
   "mcp__pavoot__get_post_event_insights"
   "mcp__notion__notion-search" "mcp__notion__notion-fetch" "mcp__notion__notion-query-data-sources"
-  "mcp__notion__notion-update-page"
+  "mcp__notion__notion-update-page" "mcp__notion__notion-create-pages"
   "mcp__google-calendar__search-events" "mcp__google-calendar__list-events"
 )
 
