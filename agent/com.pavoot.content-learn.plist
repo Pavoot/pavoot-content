@@ -7,7 +7,7 @@
   <key>ProgramArguments</key>
   <array>
     <string>/bin/zsh</string>
-    <string>/Users/ana/Documents/CODEBASE/pavoot-content/agent/run.sh</string>
+    <string>/Users/ana/Developer/pavoot-content/agent/run.sh</string>
     <string>learn</string>
   </array>
   <!-- Mondays at 07:30 local time (before the 08:00 daily run); runs on wake if the Mac was asleep. -->
@@ -21,8 +21,8 @@
     <integer>30</integer>
   </dict>
   <key>StandardOutPath</key>
-  <string>/Users/ana/Documents/CODEBASE/pavoot-content/agent/logs/launchd-learn.log</string>
+  <string>/Users/ana/Developer/pavoot-content/agent/logs/launchd-learn.log</string>
   <key>StandardErrorPath</key>
-  <string>/Users/ana/Documents/CODEBASE/pavoot-content/agent/logs/launchd-learn.log</string>
+  <string>/Users/ana/Developer/pavoot-content/agent/logs/launchd-learn.log</string>
 </dict>
 </plist>
