@@ -25,7 +25,10 @@ Outputs: `{LEARN_FILE}` (the playbook the daily drafter reads), `{SLACK_FILE}` (
 - **Score** (buyer score, so the loop optimises for customers, not applause):
   `10 × Marketer contacts 7d + 8 × Meetings 14d + 3 × New DMs 7d + 1 × Connection requests 7d
    + 0.3 × Profile views + 0.5 × Buyer viewers % + 2 × Engagement rate + Impressions / 5000`
-  (missing numbers count as 0; say in the playbook how many posts had full data).
+  (missing numbers count as 0; say in the playbook how many posts had full data). DMs / requests / marketer
+  contacts are *estimates*: each day's inbound above the normal level is shared across all posts live that day by
+  reach × freshness. Never call them proof for one post; compare groups, and weigh buyer viewers % and profile views
+  (tied to a single post) more when they exist.
 
 ## 3. Learn
 Compare groups, never single posts: by Hook, Format, Topic family, Who (Ana/Gohar), weekday and time, and
