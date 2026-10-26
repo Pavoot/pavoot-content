@@ -4,7 +4,7 @@ Pavoot's content agent: guidelines + an unattended daily run that drafts what An
 (LinkedIn first, plus company-page reposts, Instagram carousel outlines, X, and Reddit replies).
 It drafts only; the founders post.
 
-- Read `guidelines/voice.md` before writing anything; facts only from `guidelines/pavoot-today.md`
+- Read `guidelines/voice.md` and `guidelines/craft.md` (2026 practice, newsjacking, quality gate) before writing; facts only from `guidelines/pavoot-today.md`
   (current; respects its [PUBLIC]/[ASK]/[INTERNAL] labels), then `guidelines/company-facts.md` (older).
 - Ideas: Notion "Content ideas" (founders drop them in Slack #content; pavoot-ops saves them).
 - Past posts + stats: Notion "LinkedIn posts" (pavoot-ops syncs it from the LinkedIn export and the

@@ -7,3 +7,7 @@
       ~$0.005 per post read; own non-public metrics only last 30 days; verify on docs.x.com).
 - [ ] Auto-posting via LinkedIn / X APIs with a one-click approve in Slack (after drafts are reliably good).
 - [ ] "posted <url>" reply in #content → bot sets the idea's Status = Posted.
+- [ ] **Reddit API** (requested 2026-10-25 via Reddit's Data Access Request form, account Personal_Proposal960,
+      read-only: subreddit search + own comment history). Self-serve app creation is closed until approved.
+      When approved: create a "script" app, keys in Keychain (`pavoot-reddit-id`, `pavoot-reddit-secret`), build the
+      read-only scanner that runs before the daily drafter. Until then: paste a thread into #content → bot drafts the reply.

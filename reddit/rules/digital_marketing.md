@@ -1,0 +1,11 @@
+# r/digital_marketing
+- Members (approx, if found): ~381k (GummySearch)
+- Recommended list: listen-only. Generalist digital/performance marketing; events are rarely discussed.
+- Self-promotion: unconfirmed for r/digital_marketing. (saascity lists "No self-promotion" plus bans on services, surveys, and feedback posts for r/DigitalMarketing, which is a *different* sub. Don't assume it carries over.)
+- Links: unconfirmed
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: flairs in use: Question, Discussion, Support, News. Whether flair is required is unconfirmed.
+- Banned post types: unconfirmed
+- Culture / what gets upvoted: "digital marketing news, best practices, strategy, and learning". Advice and tool-recommendation requests (website builders, email marketing).
+- Sources: https://gummysearch.com/r/digital_marketing ; https://saascity.io/best-subreddits-for-indie-hackers (r/DigitalMarketing only)
+- Last checked: 2026-10-25

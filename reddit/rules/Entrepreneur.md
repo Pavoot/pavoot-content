@@ -1,0 +1,11 @@
+# r/Entrepreneur
+- Members (approx, if found): ~4M (notifier.so). saascity.io reports ~270k weekly visitors (Sep 2026).
+- Recommended list: post-here. Huge founder audience. Lessons-learned posts about events as GTM fit well if they contain zero pitch.
+- Self-promotion: not allowed in posts. Rule title: "No promotion, sales, or solicitation" (saascity, Sep 2026). Promotions, offers, and discounts go only in the "Thank You Thursday" thread (third-party mirror via notifier.so search snippet; one older Indie Hackers anecdote says Saturdays, so check the pinned thread).
+- Links: only as directly relevant, essential supporting material. Some guides say link-dropping is banned outright. Safest: no links.
+- Account age / karma minimums: reportedly 10 comment karma *within r/Entrepreneur* before you can post (notifier.so mirror; medium confidence). Comment there first.
+- Required flair / post format: unconfirmed
+- Banned post types: promoting blogs, consulting, books, or MLMs (third-party). AI-generated posts or comments reportedly risk a permanent ban (mirror). saascity says the rules require original, human-written content.
+- Culture / what gets upvoted: "Very strict about self-promotion. Focus on lessons learned and discussions." Value-first posts that merely mention a product can survive. Anything that reads as an ad gets removed.
+- Sources: https://saascity.io/best-subreddits-for-indie-hackers ; https://notifier.so/the-best-subreddits-on-reddit-to-share-your-startup/ ; https://notifier.so/reddit/subreddit_analysis/Entrepreneur (rules via search snippet; page did not render) ; https://redship.io/blog/reddit-self-promotion-rules-2026 ; https://www.teract.ai/resources/reddit-subreddit-marketing-2026
+- Last checked: 2026-10-25

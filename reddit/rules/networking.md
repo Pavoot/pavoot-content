@@ -1,0 +1,11 @@
+# r/networking
+- Members (approx, if found): ~456k (GummySearch)
+- Recommended list: skip. This is computer networking: "Enterprise Networking Design, Support, and Discussion" (Cisco, Juniper, Arista, Fortinet). Not professional/social networking.
+- Self-promotion: unconfirmed
+- Links: unconfirmed
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: uses flairs such as Design, Troubleshooting, Career Advice, and Other
+- Banned post types: unconfirmed. Off-topic posts about people-networking would be out of scope.
+- Culture / what gets upvoted: network engineers troubleshooting switches, firewalls, and VPNs.
+- Sources: https://gummysearch.com/r/networking ; https://www.networkworld.com/article/674080/collaboration-social-9-super-useful-subreddits-network-pros-should-follow.html
+- Last checked: 2026-10-25

@@ -28,9 +28,11 @@ real LinkedIn export, and it surfaces the problem that now matters most:
 
 So reach is not the bottleneck, **audience is**. A post that goes viral with founders and engineers
 is now close to a miss, however good it is. When proposing a post, say who it can plausibly reach,
-not just why it is strong. Founder-flavoured pegs (YC, Claude, AI mega-raises) reliably pull the
-wrong crowd; posts written in marketers' language, about marketers' problems, tagging real
-customers, or pushed through the company page, are the levers worth testing.
+not just why it is strong. A big news peg on its own (YC, Claude, an AI mega-raise) pulls the wrong
+crowd, BUT reframed for event and field marketers it is the strongest buyer magnet we have: under fair
+attribution the Anthropic post (May 30) brought more buyer contacts than any other. So: newsjack
+deliberately (craft.md §5: fresh, big, honest bridge, proof, celebrate the buyer), and alongside it,
+posts in marketers' language about marketers' problems, tagging real event people, are the levers.
 
 We still act like we've already won. We're just letting the right people watch now.
 

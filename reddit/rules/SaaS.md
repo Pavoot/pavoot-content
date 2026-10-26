@@ -1,0 +1,11 @@
+# r/SaaS
+- Members (approx, if found): ~833k (GummySearch, 2026-10-25). Other sources say 150-486k.
+- Recommended list: listen-only. Written rules ban promotion, and the feed is full of founder self-promo.
+- Self-promotion: rule titles: "No Vendor Spam on posts or comments"; "No selling, soliciting, or fundraising"; "No Promotional or Advertising SaaS" (saascity, Sep 2026). Other guides mention a weekly promo/feedback thread ("SaaSFeedback Saturday" / "Show and Tell Saturday" / "feedback Friday"). The names conflict, so confirm on the sub before using one.
+- Links: unconfirmed. Treat product links as promotion.
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: unconfirmed
+- Banned post types: vendor spam, selling, fundraising, and promo posts. Offers to review or "roast" products are also not allowed (saascity).
+- Culture / what gets upvoted: founder stories, lessons, and build-in-public posts. "Pure ads get removed fast." Self-promo is the most common post theme anyway.
+- Sources: https://saascity.io/best-subreddits-for-indie-hackers ; https://gummysearch.com/r/SaaS ; https://redship.io/blog/reddit-self-promotion-rules-2026 ; https://dupple.com/learn/best-subreddits-to-promote-saas
+- Last checked: 2026-10-25

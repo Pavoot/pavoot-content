@@ -1,0 +1,11 @@
+# r/eventplanning
+- Members (approx, if found): ~1k (GummySearch, 2026-10-25)
+- Recommended list: skip. Tiny and mostly vendor/wedding spam (e.g. "Corporate Event Planner in Bhubaneswar"); low reach. r/EventPlanners (13k) is the better pro sub.
+- Self-promotion: unconfirmed (no rules text found)
+- Links: unconfirmed
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: unconfirmed (GummySearch lists no flairs)
+- Banned post types: unconfirmed
+- Culture / what gets upvoted: low activity. Mostly weddings, exhibitions, vendor ads, and a few "how do I get a job in events" advice requests.
+- Sources: https://gummysearch.com/r/eventplanning
+- Last checked: 2026-10-25

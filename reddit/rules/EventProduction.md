@@ -1,0 +1,11 @@
+# r/EventProduction
+- Members (approx, if found): ~18k (GummySearch, 2026-10-25). An older snapshot said ~9k.
+- Recommended list: post-here. Working event producers; questions like "reducing no-shows on free events" already appear.
+- Self-promotion: unconfirmed. GummySearch saw 1 self-promo post (beta-tester request), but the policy is unknown.
+- Links: unconfirmed
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: flairs in use: Planning, Industry Advice, Job Opportunity, Tech, Networking, Vendor Rec. Whether flair is required is unconfirmed.
+- Banned post types: unconfirmed
+- Culture / what gets upvoted: practitioner talk about lights, staging, security, venues, contracts, and attendance problems. Solution requests are the top post type.
+- Sources: https://gummysearch.com/r/EventProduction
+- Last checked: 2026-10-25

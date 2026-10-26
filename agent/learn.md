@@ -13,6 +13,30 @@ Outputs: `{LEARN_FILE}` (the playbook the daily drafter reads), `{SLACK_FILE}` (
 - Notion **"Content ideas"** (what was drafted / posted) and `drafts/daily/*.md` of the last 5 weeks (each
   draft has a `Test:` line and the text that was proposed).
 
+## 1b. Reddit (Notion "Reddit posts")
+- For rows without a Type, set Type (conversational / soft-promo / promotional) and Topic, matching them to the
+  Reddit proposals in `drafts/daily/` (tick "From agent draft" when it matches).
+- Compare types, subs and topics by Upvotes and Comments (when filled) and removals. Write a short Reddit section in
+  the playbook: what lands, which subs to drop or add, the next week's type mix, and the ramp-up phase.
+
+## 1c. What the links did (UTM campaigns)
+- `learning/gtm.json` (exported from the shared GTM database before this run): `content_links` = every tagged link the
+  daily drafts proposed (campaign, platform, author, utm_content, target, status) and `campaign_results` = numbers
+  stored in previous weeks.
+- Ask the Pavoot app for the last 7 days of campaign numbers: the Pavoot tool `get_campaign_attribution` (by
+  utm_source / utm_campaign / utm_content: event-page views, registrations, pavoot.events visits, sign-ups, pledges).
+  If that tool isn't available yet, use `get_signup_sources` per recent event for event-page registrations by UTM, and
+  say in the playbook that pavoot.events numbers are missing.
+- Meetings: for people who registered or signed up through a campaign (when the tool returns them), check Google
+  Calendar / Granola for a meeting within 14 days.
+- Write `learning/campaign_results.json`: `{"campaign_results": [{"utm_source", "utm_campaign", "utm_content",
+  "event_page_views", "registrations", "marketplace_visits", "marketplace_signups", "pledges", "meetings"}]}` for
+  this week (numbers or null). A script stores it for both agents.
+- For each LinkedIn post whose campaign has numbers, fill "Link visits" and "Sign-ups" in Notion "LinkedIn posts"
+  (sign-ups = registrations + marketplace sign-ups + pledges). Add to its Score: `+ 15 × Sign-ups + 0.5 × Link visits`
+  (real actions beat every other signal). In the playbook, a "What the links did" section: campaigns ranked by
+  sign-ups, which platform/author/arm/target converted, and posts that got reach but no clicks.
+
 ## 2. Tag (Notion "LinkedIn posts", rows where the tag is empty)
 - **Hook**: question / bold claim / story / number / news peg / list / other (from the first two lines).
 - **Format**: text only / photo / carousel / video / screenshot / link (from the text and media hints; if

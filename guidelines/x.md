@@ -1,7 +1,7 @@
 # X (Twitter) posts — Pavoot
 
-Same company, same Demo-Day push, **different platform voice**. Pull all facts and guardrails from
-`company-facts.md` (real traction, don't pitch the media tool, never frame AI as
+Same company, **different platform voice**. Pull all facts and guardrails from
+`pavoot-today.md` (and `company-facts.md` for older facts) (real traction, don't pitch the media tool, never frame AI as
 replacing field marketers, growth-rate not absolute MRR). Read `../CLAUDE.md` for the company +
 founder context. This file only covers how X differs from LinkedIn.
 
@@ -26,10 +26,22 @@ founder context. This file only covers how X differs from LinkedIn.
 Same as LinkedIn: mix Ana and Gohar. On X you can also run a **@pavoot** company account that's
 funnier/looser. Note the intended account on each post.
 
+## Cadence and mix (from founders who grew on X)
+- **Volume wins on X, unlike LinkedIn.** 1–2 posts a day tends not to work. Aim for **2–4 a day per active account**,
+  plus replies. To find what works fast, run an **intense week of ~6 posts a day** once, then settle at 2–4.
+- **Mix, roughly thirds:**
+  1. **X-native**: quick takes, observations from the room, build-in-public numbers (only [PUBLIC] ones), threads,
+     and replies / quote posts on big accounts' posts in the founders' lane (YC, GTM, events, AI companies).
+  2. **Repurposed video/photo**: short clips or photos from events and talks (also for Instagram/YouTube); real
+     footage only.
+  3. **Cross-posted updates**: the day's LinkedIn post rewritten for X (shorter, spicier), Reddit lessons, launches.
+- **One idea, many channels**: every strong idea should become a LinkedIn post, an X take or thread, a Reddit
+  discussion (rewritten for Reddit, no product), and an Instagram carousel when it has steps. Do the 80/20 on each
+  channel: double down on whatever format is working there.
+- **Replies count as posts**: 3–5 thoughtful replies a day on posts in the lane grow an account faster than
+  broadcasting. Add something (a number, a counterpoint, an experience), never "great post".
+
 ## Workflow
-When the user gives a topic: decide single-tweet vs thread, pick the account/voice, write it tight,
-offer 2 alt hook-tweets. Save each post as its own file in `x/posts/` (one post per file, mirroring
-the LinkedIn `posts/` layout), named `YYYY-MM-DD-slug.md` with frontmatter (date, platform, voice,
-type, format: single|thread, status, media). Archived posts go in `x/archived/`. Reuse the LinkedIn
-posts in `../posts/` as raw material, but rewrite for X, don't just shrink them. Keep each X post's
-voice matched to its LinkedIn counterpart.
+In the daily run (agent/daily.md): propose the day's X set for each active account, each tweet or thread as a
+ready-to-paste block, plus 3–5 reply targets (found via search; X itself can't be read here until the Grok/X API
+step in TODO.md). Drafts live in `drafts/daily/`; no `x/posts/` files anymore.

@@ -1,0 +1,11 @@
+# r/smallbusiness
+- Members (approx, if found): ~1.8M (notifier.so). saascity.io reports ~320k weekly visitors.
+- Recommended list: post-here. Owners asking how to get customers. Local events and networking questions fit, as long as the post is a question or genuine discussion.
+- Self-promotion: rule title "No business promotion posts". Older copies say promotion goes only in the weekly "Promote-your-business" thread. saascity (Sep 2026) lists no promo thread and calls "[Promo]" tag guidance outdated. Check the pinned posts.
+- Links: "No blog links and blog content" (third-party copy). saascity says links are banned.
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: unconfirmed. Notifier quotes "Post only questions about small business."
+- Banned post types: business promotion, lead generation, rants, info-tainment, success stories, unsolicited instructional texts, treatises, or how-to's (third-party copy of rules). saascity adds product recommendations and market-research posts (surveys).
+- Culture / what gets upvoted: practical owner-to-owner Q&A. Do NOT post "here's how we fill events" tutorials or success stories. Frame drafts as questions.
+- Sources: https://saascity.io/best-subreddits-for-indie-hackers ; https://notifier.so/reddit/subreddit_analysis/smallbusiness (via search snippet) ; https://www.indiehackers.com/post/list-of-subreddits-and-their-self-promotion-days-weeks-72c1129428 (via search snippet, 2023)
+- Last checked: 2026-10-25

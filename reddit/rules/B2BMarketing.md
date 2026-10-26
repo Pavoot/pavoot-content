@@ -1,0 +1,11 @@
+# r/B2BMarketing
+- Members (approx, if found): ~103k (The Hive Index). Older figures were ~25-26k.
+- Recommended list: listen-only. Good for spotting event-ROI and lead-gen pain; rules unknown.
+- Self-promotion: unconfirmed
+- Links: unconfirmed
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: flairs in use: Discussion, Question, Support. Whether flair is required is unconfirmed.
+- Banned post types: unconfirmed
+- Culture / what gets upvoted: "professional discussion" of B2B trends. Lead gen, sales, and LinkedIn strategy. Members often ask for tool recommendations.
+- Sources: https://thehiveindex.com/communities/r-b2bmarketing/
+- Last checked: 2026-10-25

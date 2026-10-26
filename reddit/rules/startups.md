@@ -1,0 +1,11 @@
+# r/startups
+- Members (approx, if found): ~1.7-1.8M (notifier.so, dupple.com). saascity.io reports ~100k weekly visitors.
+- Recommended list: post-here. Founder audience, but the strictest promo policy on the list. Discussion posts only.
+- Self-promotion: "No direct sales, advertisements, or promotional posts of any kind". Exceptions only in designated threads stickied at the top (e.g. "Share Your Startup"; cadence reported as weekly, monthly, or quarterly, so check the pinned post). Any interest, stake, or relationship counts as self-promotion, even being friends with someone at the company. Mods have the final say.
+- Links: rule title "Sharing Your Blog is To Start a Discussion, Never For Self-Promotion". Avoid links.
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: flair likely required (unconfirmed). Many posts carry the "i will not promote" tag in the title. It looks like a convention, possibly AutoMod-enforced, but that is unconfirmed. Include it to be safe.
+- Banned post types: promo posts; posts asking people to DM you (saascity); feedback requests outside the designated thread. Community dislikes "I built" posts.
+- Culture / what gets upvoted: advice requests and candid founder discussion. A prominent product mention gets a post removed (Indie Hackers: "zero-tolerance").
+- Sources: https://saascity.io/best-subreddits-for-indie-hackers ; https://notifier.so/the-best-subreddits-on-reddit-to-share-your-startup/ ; https://redship.io/blog/reddit-self-promotion-rules-2026 ; https://dupple.com/learn/best-subreddits-to-promote-saas ; https://gummysearch.com/r/startups
+- Last checked: 2026-10-25

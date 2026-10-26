@@ -1,0 +1,11 @@
+# r/sweatystartup
+- Members (approx, if found): ~213k (GummySearch)
+- Recommended list: skip (or listen-only). "A hub for entrepreneurs of regular old fashioned businesses" (cleaning, pest control, trades). Not an event or B2B-event audience.
+- Self-promotion: unconfirmed (no rules text found). GummySearch saw a couple of self-promo posts.
+- Links: unconfirmed
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: unconfirmed
+- Banned post types: unconfirmed
+- Culture / what gets upvoted: blue-collar operators discussing clients, leads, and getting started.
+- Sources: https://gummysearch.com/r/sweatystartup
+- Last checked: 2026-10-25

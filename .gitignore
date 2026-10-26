@@ -7,3 +7,4 @@ agent/logs/
 *.xlsx
 *.csv
 .DS_Store
+.venv/

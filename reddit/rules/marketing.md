@@ -1,0 +1,11 @@
+# r/marketing
+- Members (approx, if found): ~2.0M (GummySearch). saascity.io reports ~68k weekly visitors.
+- Recommended list: listen-only. Hard ban on promotion; only expert comments are welcome.
+- Self-promotion: rule title "Advertising, Self-Promotion, & Spam (Permanent Ban)" (saascity, Sep 2026). One source says the rules point promoters to reddit.com/advertising.
+- Links: unconfirmed. Treat any self-link as promotion.
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: flairs in use: Question, Discussion, Support, News. Whether flair is required is unconfirmed.
+- Banned post types: self-promotion and spam; app-idea posts (permanent ban per saascity). dupple.com says "useful AMA / data posts permitted" (unconfirmed).
+- Culture / what gets upvoted: industry professionals (brands, agencies) discussing strategy. Tool mentions are OK only when answering a question.
+- Sources: https://saascity.io/best-subreddits-for-indie-hackers ; https://gummysearch.com/r/marketing ; https://dupple.com/learn/best-subreddits-to-promote-saas ; https://www.teract.ai/resources/reddit-subreddit-marketing-2026
+- Last checked: 2026-10-25

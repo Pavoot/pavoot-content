@@ -1,0 +1,11 @@
+# r/content_marketing
+- Members (approx, if found): ~205k (GummySearch)
+- Recommended list: listen-only. Peripheral to events. Useful for how marketers repurpose event content.
+- Self-promotion: description says "This is not a place to spam your blog." Fuller policy unconfirmed.
+- Links: blog spam is not allowed. Otherwise unconfirmed.
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: flairs in use: Question, Discussion, Support, News. Whether flair is required is unconfirmed.
+- Banned post types: blog spam. Others unconfirmed.
+- Culture / what gets upvoted: content marketers trading feedback, advice, and resources. Tool mentions are tolerated in the context of workflows (teract.ai).
+- Sources: https://gummysearch.com/r/content_marketing ; https://www.teract.ai/resources/reddit-subreddit-marketing-2026
+- Last checked: 2026-10-25

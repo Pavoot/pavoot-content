@@ -1,0 +1,11 @@
+# r/AskMarketing
+- Members (approx, if found): ~176k (GummySearch)
+- Recommended list: post-here. Q&A format ("Have a question about marketing? This is your place to ask"). Ask genuine questions about event-led GTM.
+- Self-promotion: unconfirmed (no rules text found). A few hiring/self-promo posts exist, but tolerance is unknown.
+- Links: unconfirmed
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: flairs in use: "Question" (most posts) and "Support". Whether flair is required is unconfirmed.
+- Banned post types: unconfirmed
+- Culture / what gets upvoted: beginner-to-mid marketers asking for advice and tool recommendations.
+- Sources: https://gummysearch.com/r/AskMarketing
+- Last checked: 2026-10-25

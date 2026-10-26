@@ -1,0 +1,11 @@
+# r/ycombinator
+- Members (approx, if found): ~207k (GummySearch). An older snapshot said ~137k.
+- Recommended list: post-here. Founders, many pre-/post-YC. Startup-life and GTM questions fit. Be careful: Pavoot's YC ties make any mention read as promo.
+- Self-promotion: unconfirmed (no rules text found)
+- Links: unconfirmed
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: unconfirmed
+- Banned post types: unconfirmed
+- Culture / what gets upvoted: "News and discussion around startups and applying to Y Combinator". Advice requests, struggling-founder posts, cofounder questions, and post-rejection pivots.
+- Sources: https://gummysearch.com/r/ycombinator
+- Last checked: 2026-10-25

@@ -1,0 +1,11 @@
+# r/sales
+- Members (approx, if found): ~611k (GummySearch). dupple.com says ~800k.
+- Recommended list: listen-only. Very strict anti-promo policy with permanent bans.
+- Self-promotion: sidebar: "Selling, recruiting and blog spam will result in an immediate and permanent ban." Rule titles: "No Selling or Self Promotion"; "No Spam, Affiliation to Recommendations or Referral Links"; "No Marketing or Blogspam".
+- Links: no referral links or blogspam. Recommending a product you are affiliated with is banned.
+- Account age / karma minimums: 10 community karma (karma earned in r/sales) to post (saascity)
+- Required flair / post format: flairs in use: Sales Careers, Sales Topic General Discussion, Fundamental/Advanced Sales Skills, Sales Tools and Resources, Sales Leadership Focused. Whether flair is required is unconfirmed.
+- Banned post types: selling, recruiting, marketing or blog posts, and AI-written posts (saascity)
+- Culture / what gets upvoted: working sellers talking careers and craft. "Read our rules before posting or commenting."
+- Sources: https://gummysearch.com/r/sales ; https://saascity.io/best-subreddits-for-indie-hackers
+- Last checked: 2026-10-25

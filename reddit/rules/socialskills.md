@@ -1,0 +1,11 @@
+# r/socialskills
+- Members (approx, if found): ~6.4M (GummySearch)
+- Recommended list: listen-only. Huge audience, but it is personal self-improvement, not B2B. Only answer comments on networking-event nerves. Not a home for founder or GTM posts.
+- Self-promotion: unconfirmed. No product discussion seen beyond self-help books.
+- Links: unconfirmed
+- Account age / karma minimums: unconfirmed
+- Required flair / post format: unconfirmed. Sidebar says "Please be sure to read the rules or the auto-sticky (on all posts) before posting."
+- Banned post types: "this is not a dating-advice or general life-advice sub". Other bans unconfirmed.
+- Culture / what gets upvoted: personal advice requests (awkwardness, making friends, people-pleasing). Empathetic, non-commercial tone.
+- Sources: https://gummysearch.com/r/socialskills
+- Last checked: 2026-10-25
